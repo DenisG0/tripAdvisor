@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+#js-header{
+  position: relative;
+  left: 0;
+  right:0;
+  width:100%;
+  z-index: 101;
+  color: black;
+}
+
